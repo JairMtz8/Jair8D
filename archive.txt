@@ -1,2 +1,4 @@
 NAME_ARCHIVE: archive.txt
 PROYECT_NAME: Jair8D
+
+Modificaciones trabajador 2
