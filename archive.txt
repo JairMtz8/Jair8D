@@ -2,3 +2,8 @@ NAME_ARCHIVE: archive.txt
 PROYECT_NAME: Jair8D
 
 Modificaciones trabajador 2
+
+{-------- SECCÍÓN INFO TRABAJADOR 1 --------]
+NAME: Trabajador 1
+DESCRIPTION: Modificación de archivo.txt por Trabajador 1
+>>>>>>> main
